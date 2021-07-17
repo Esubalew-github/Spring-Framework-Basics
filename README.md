@@ -26,21 +26,21 @@ git clone https://github.com/Esubalew-github/Spring-Framework-Basics
 Then, 
 - For `Inversion Control`,
 
-Change the project directory
+change the project directory
 
 ```
 cd src/main/java/com/whizlabs/spring/basics/ioc
 ```
 
 - For `Bean Management`,
-  Change the project directory
+  change the project directory
 
 ```
 cd src/main/java/com/whizlabs/spring/basics/bean
 ```
 
 - For `Resources`,
-  Change the project directory
+  change the project directory
 
 ```
 cd src/main/java/com/whizlabs/spring/basics/resource
@@ -48,14 +48,14 @@ cd src/main/java/com/whizlabs/spring/basics/resource
 
 
 - For`Spring Expression Language`,
-  Change the project directory
+  change the project directory
 
 ```
 cd src/main/java/com/whizlabs/spring/basics/spel
 ```
 
 - For `Aspect Oriented Programming`,
-  Change the project directory
+  change the project directory
 
 ```
 cd src/main/java/com/whizlabs/spring/basics/aop
