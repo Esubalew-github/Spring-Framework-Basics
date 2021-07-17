@@ -9,7 +9,7 @@ It has five sections:
 
 - Inversion Control: This is the heart of Spring Framework
 - Bean Management
-- Resources
+- Resource
 - Spring Expression Language
 - Aspect Oriented Programming
 
@@ -39,7 +39,7 @@ cd src/main/java/com/whizlabs/spring/basics/ioc
 cd src/main/java/com/whizlabs/spring/basics/bean
 ```
 
-- For `Resources`,
+- For `Resource`,
   change the project directory
 
 ```
