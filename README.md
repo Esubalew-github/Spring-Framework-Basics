@@ -3,13 +3,13 @@
 
 ---
 
-Welcome to Spring Framework basics which is all about the fundamental overview of Spring Framework
+Welcome to `Spring Framework Basics` which is all about the fundamentals of Spring Framework. I created this project to write codes that demonstrate basic functionalities of Spring. 
 
 It has five sections:
 
 - Inversion Control: This is the heart of Spring Framework
 - Bean Management
-- Resource
+- Resources
 - Spring Expression Language
 - Aspect Oriented Programming
 
